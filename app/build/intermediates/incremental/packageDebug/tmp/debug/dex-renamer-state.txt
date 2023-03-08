@@ -1,0 +1,4 @@
+#Wed Mar 08 11:42:39 EST 2023
+base.0=/Users/deja/Desktop/Dec 1 SortThrough/Fall 2022/Mobile App/Labs/Lab 7/MaterialMe-Starter/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
